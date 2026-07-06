@@ -93,55 +93,68 @@ Python • PyTorch • Hugging Face Transformers • Sentence Transformers
 
 # 💻 Tech Stack
 
-## Programming Languages
+## 📝 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## Backend
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,docker" />
-</p>
-
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
-
----
-
-## AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-![Transformers](https://img.shields.io/badge/Hugging_Face-Transformers-yellow?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
-
----
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
 </p>
 
 ---
 
-## Tools
+## 🗄️ Databases & Caching
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
-![Locust](https://img.shields.io/badge/Locust-00C853?style=flat-square)
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Locust-00C853?style=for-the-badge" />
+</p>
 
 ---
 
