@@ -1,73 +1,203 @@
-# Hi, I'm Aniket Paswan 👋
+# Hi 👋, I'm Aniket Paswan
 
-🚀 ML Engineer | Backend Developer | CSE Undergraduate  
-📍 Greater Noida, India  
-🎯 Aspiring SDE (Backend) | Machine Learning Engineer  
+<div align="center">
 
----
+### Backend Engineer • AI Engineer • Computer Science Undergraduate
 
-## 🧠 About Me
+Building secure backend systems, scalable REST APIs, and intelligent software.
 
-I’m a backend and machine learning-focused Computer Science student interested in building reliable and efficient software systems.
+<p>
+<a href="https://linkedin.com/in/anikk08">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- ⚙️ Building backend systems using FastAPI  
-- 📊 Practicing Data Structures & Algorithms  
-- 🧠 Working on machine learning projects  
-- ⚡ Focused on clean and efficient code  
+<a href="mailto:anikk0208@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
----
-## ⚙️ Tech Stack
+<a href="https://github.com/Anikk02">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange)
-![Transformers](https://img.shields.io/badge/HuggingFace-yellow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
-![XGBoost](https://img.shields.io/badge/XGBoost-green)
-![Pandas](https://img.shields.io/badge/Pandas-black)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
+<a href="https://leetcode.com/u/Gwishin">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-green)
-![REST API](https://img.shields.io/badge/REST-API-blue)
-![JWT](https://img.shields.io/badge/JWT-Auth-red)
-![Redis](https://img.shields.io/badge/Redis-red)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-grey)
+</p>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL-grey)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-blue)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue)
-
-### 🛠️ Tools
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Locust](https://img.shields.io/badge/Locust-green)
----
-
-## 🧩 Core CS Skills
-
-- Data Structures & Algorithms  
-- Operating Systems  
-- Computer Networks  
-- Database Systems  
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 About Me
 
-- 📧 Email: anikk0208@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/anikk08  
-- 💻 GitHub: https://github.com/Anikk02  
-- 🧠 LeetCode: https://leetcode.com/u/Gwishin  
+I'm a Computer Science undergraduate passionate about building secure backend systems, scalable APIs, and machine learning applications.
+
+My primary interests include:
+
+* 🔐 Backend Engineering
+* ⚙️ System Design
+* 🛡 API Security
+* ☁️ Cloud Computing
+* 🤖 Machine Learning
+* 📊 Data Structures & Algorithms
+
+Currently, I'm focused on strengthening my backend engineering skills while expanding my knowledge of cloud technologies and distributed systems.
 
 ---
 
-## 📊 GitHub Stats
+# ⭐ Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anikk02&show_icons=true&theme=tokyonight)
+## 🔐 TrianSec API Security System
+
+An enterprise-grade API security platform built with **FastAPI** that protects APIs from abuse while providing centralized monitoring, policy enforcement, authentication, and platform administration.
+
+### Key Features
+
+* Adaptive Policy Engine
+* JWT Authentication
+* API Key Generation & Management
+* Role-Based Access Control (RBAC)
+* Redis-based Rate Limiting & Caching
+* PostgreSQL Integration
+* Developer Control Panel
+* Traffic Analytics
+* Abuse Monitoring
+* Global Logging
+* System Health Dashboard
+* Prometheus & Grafana Monitoring
+
+**Tech Stack**
+
+FastAPI • PostgreSQL • Redis • React • SQLAlchemy • Prometheus • Grafana
+
+---
+
+## 🧠 Mental Health Chatbot
+
+A context-aware conversational AI focused on providing supportive and meaningful interactions using modern NLP techniques.
+
+### Highlights
+
+* Transformer-based NLP
+* Context-aware conversations
+* Semantic embeddings
+* Response evaluation
+* Safety-focused design
+
+**Tech Stack**
+
+Python • PyTorch • Hugging Face Transformers • Sentence Transformers
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,docker" />
+</p>
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+
+---
+
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+![Transformers](https://img.shields.io/badge/Hugging_Face-Transformers-yellow?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+</p>
+
+![Locust](https://img.shields.io/badge/Locust-00C853?style=flat-square)
+
+---
+
+# 📚 Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Operating Systems
+* Computer Networks
+* Database Management Systems
+* System Design Fundamentals
+
+---
+
+# 🌱 Currently Learning
+
+* Distributed Systems
+* Microsoft Azure
+* Backend System Design
+* Machine Learning Engineering
+* Advanced DSA
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anikk02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikk02&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikk02&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [anikk0208@gmail.com](mailto:anikk0208@gmail.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/anikk08
+
+💻 **GitHub:** https://github.com/Anikk02
+
+🧠 **LeetCode:** https://leetcode.com/u/Gwishin
+
+---
+
+<div align="center">
+
+### *"Building secure, scalable, and reliable software."*
+
+</div>
