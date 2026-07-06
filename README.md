@@ -57,7 +57,6 @@ An enterprise-grade API security platform built with **FastAPI** that protects A
 * Adaptive Policy Engine
 * JWT Authentication
 * API Key Generation & Management
-* Role-Based Access Control (RBAC)
 * Redis-based Rate Limiting & Caching
 * PostgreSQL Integration
 * Developer Control Panel
@@ -65,7 +64,6 @@ An enterprise-grade API security platform built with **FastAPI** that protects A
 * Abuse Monitoring
 * Global Logging
 * System Health Dashboard
-* Prometheus & Grafana Monitoring
 
 **Tech Stack**
 
